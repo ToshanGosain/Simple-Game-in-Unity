@@ -1,2 +1,3 @@
 # Simple-Game-in-Unity
-This is one of my first games that I have created in Unity. It is a simple 3D platformer game, in which I followed an online tutorial in order to create this game. With this 
+The game that I have created was made in a game engine by the name of Unity. Unity is a game engine that is friendly to people who are new to programming. With Unity, there has been over hundreds of thousands games created, including popular games such as Superhot, Kerbal Space Program, Monument Valley 2, and much more. 
+![picture of layout](https://i.imgur.com/2N2fxi8.png)
